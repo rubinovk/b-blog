@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://rubinovk.github.io/blog/archives/</loc>
+        <lastmod>2014-03-16T22:14:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubinovk.github.io/blog/blog/archives/</loc>
+        <lastmod>2014-03-16T22:14:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubinovk.github.io/blog/blog/</loc>
+        <lastmod>2014-03-16T22:14:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubinovk.github.io/blog/</loc>
+        <lastmod>2014-03-16T22:14:50+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubinovk.github.io/blog/robots.txt</loc>
+        <lastmod>2014-03-16T22:14:50+08:00</lastmod>
+    </url>
+</urlset>
