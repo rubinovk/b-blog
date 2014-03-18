@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Blog]]></title>
+  <title><![CDATA[b-blog]]></title>
   <link href="http://rubinovk.github.io/blog/atom.xml" rel="self"/>
   <link href="http://rubinovk.github.io/blog/"/>
-  <updated>2014-03-16T22:27:49+08:00</updated>
+  <updated>2014-03-18T21:46:54+08:00</updated>
   <id>http://rubinovk.github.io/blog/</id>
   <author>
     <name><![CDATA[Konstantin Rubinov]]></name>
