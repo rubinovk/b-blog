@@ -2,7 +2,11 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://rubinovk.github.io/b-blog/look-for-yourself</loc>
-        <lastmod>2014-03-20T14:54:06+08:00</lastmod>
+        <lastmod>2014-03-30T17:49:46+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://rubinovk.github.io/b-blog/run-vertically</loc>
+        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://rubinovk.github.io/b-blog/about/</loc>
@@ -10,19 +14,19 @@
     </url>
     <url>
         <loc>http://rubinovk.github.io/b-blog/archives/</loc>
-        <lastmod>2014-03-20T14:54:06+08:00</lastmod>
+        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://rubinovk.github.io/b-blog/blog/archives/</loc>
-        <lastmod>2014-03-20T14:54:06+08:00</lastmod>
+        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://rubinovk.github.io/b-blog/blog/</loc>
-        <lastmod>2014-03-20T14:54:06+08:00</lastmod>
+        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://rubinovk.github.io/b-blog/</loc>
-        <lastmod>2014-03-20T14:54:06+08:00</lastmod>
+        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
     </url>
     <url>
         <loc>http://rubinovk.github.io/b-blog/robots.txt</loc>
