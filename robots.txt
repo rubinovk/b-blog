@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://rubinovk.github.io/b-blog/sitemap.xml 
+Sitemap: http://futurezoom.in/sitemap.xml 

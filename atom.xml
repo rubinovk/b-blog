@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[b-blog]]></title>
-  <link href="http://rubinovk.github.io/b-blog/atom.xml" rel="self"/>
-  <link href="http://rubinovk.github.io/b-blog/"/>
-  <updated>2014-03-30T17:51:49+08:00</updated>
-  <id>http://rubinovk.github.io/b-blog/</id>
+  <title><![CDATA[future zooming]]></title>
+  <link href="http://futurezoom.in/atom.xml" rel="self"/>
+  <link href="http://futurezoom.in/"/>
+  <updated>2014-04-05T11:16:10+08:00</updated>
+  <id>http://futurezoom.in/</id>
   <author>
     <name><![CDATA[Konstantin Rubinov]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Run vertically]]></title>
-    <link href="http://rubinovk.github.io/b-blog/run-vertically"/>
+    <link href="http://futurezoom.in/run-vertically"/>
     <updated>2014-03-30T16:40:02+08:00</updated>
-    <id>http://rubinovk.github.io/b-blog/run-vertically</id>
+    <id>http://futurezoom.in/run-vertically</id>
     <content type="html"><![CDATA[<p><span class='pullquote-right' data-pullquote='&#8220;Don&#8217;t run vertically, run
 forward!&#8221;'> I&rsquo;m no runner myself, however once I received an essential
 lesson about running.  My cousin Alex told me &ndash; &ldquo;Don&rsquo;t run vertically, run
@@ -55,9 +55,9 @@ habit. Needless to say, some work is needed.</p>
   
   <entry>
     <title type="html"><![CDATA[Look for yourself]]></title>
-    <link href="http://rubinovk.github.io/b-blog/look-for-yourself"/>
+    <link href="http://futurezoom.in/look-for-yourself"/>
     <updated>2014-03-17T21:38:05+08:00</updated>
-    <id>http://rubinovk.github.io/b-blog/look-for-yourself</id>
+    <id>http://futurezoom.in/look-for-yourself</id>
     <content type="html"><![CDATA[<p>Taking care of yourself is difficult, especially in the present. If you feel
 good, you don&rsquo;t want to do anything to yourself. If you feel bad &mdash; you don&rsquo;t
 want to do anything either. No responsibility required.</p>
