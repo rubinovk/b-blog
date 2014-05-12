@@ -2,34 +2,38 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://futurezoom.in/look-for-yourself</loc>
-        <lastmod>2014-03-30T17:49:46+08:00</lastmod>
+        <lastmod>2014-05-10T20:08:46+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/run-vertically</loc>
-        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
+        <lastmod>2014-05-10T20:08:46+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://futurezoom.in/the-last-word</loc>
+        <lastmod>2014-05-12T08:08:40+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/about/</loc>
-        <lastmod>2014-04-17T08:15:18+08:00</lastmod>
+        <lastmod>2014-05-10T20:08:46+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/archives/</loc>
-        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
+        <lastmod>2014-05-12T08:08:40+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/blog/archives/</loc>
-        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
+        <lastmod>2014-05-12T08:08:40+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/blog/</loc>
-        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
+        <lastmod>2014-05-12T08:08:40+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/</loc>
-        <lastmod>2014-03-30T17:51:25+08:00</lastmod>
+        <lastmod>2014-05-12T08:08:40+08:00</lastmod>
     </url>
     <url>
         <loc>http://futurezoom.in/robots.txt</loc>
-        <lastmod>2014-03-19T21:45:45+08:00</lastmod>
+        <lastmod>2014-05-10T20:08:46+08:00</lastmod>
     </url>
 </urlset>

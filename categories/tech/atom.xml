@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: tech | future zooming]]></title>
+  <link href="http://futurezoom.in/categories/tech/atom.xml" rel="self"/>
+  <link href="http://futurezoom.in/"/>
+  <updated>2014-05-12T08:10:09+08:00</updated>
+  <id>http://futurezoom.in/</id>
+  <author>
+    <name><![CDATA[Konstantin Rubinov]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[The last Word]]></title>
+    <link href="http://futurezoom.in/the-last-word"/>
+    <updated>2014-05-10T09:28:10+08:00</updated>
+    <id>http://futurezoom.in/the-last-word</id>
+    <content type="html"><![CDATA[<p>John Gruber with the help of Aaron Shwarz relieved the pain of writing awkward
+html to writing straightforward
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a>.  Yes, yes, yes and
+yes! Was it difficult? &ndash; I cannot know.  Was it needed? &ndash; Yes!</p>
+
+<!-- more -->
+
+
+<p>From:
+```html</p>
+
+<p><div class="entry-content"><p>John Gruber with the help of Aaron Shwarz
+relieved the pain of writing awkward html to writing straightforward
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a>.
+Yes, yes, yes and yes! Was it difficult? &ndash; I cannot know.
+Was it needed? &ndash; Yes!</p>
+<code>
+we've got:
+</code>
+John Gruber with the help of Aaron Shwarz relieved the pain of writing awkward
+html to writing straightforward
+<a href="http://daringfireball.net/projects/markdown/">Markdown</a>.  Yes, yes, yes and
+yes! Was it difficult? &ndash; I cannot know.  Was it needed? &ndash; Yes!
+```</p>
+
+<p>In the following I will argue that <strong>before long <em>Markdown</em> will kill <em>Word</em></strong>.  I
+am talking about you, <em>MS Word</em>. Believe me: <em>Markdown</em> with all its
+seemingly superficial simplicity has the power to throw such an unforgivable
+blow.</p>
+
+<h2>Prelude</h2>
+
+<p>We seemed to have been stuck with <em>Word</em> forever.</p>
+
+<p>Except for things do not stay in one place. In the last decade a number of
+species of text manipulation and formatting tools have become dramatically
+better and fitter, though working with plain text (code) for computer programs.
+<em>Word</em> seems to remain much the same and we seem to have become resigned to its
+interface and behavior.</p>
+
+<p>When I say dramatically better, I am looking into the direction of the modern
+text and code editors and IDEs, tools that software developers and designers
+use. Just look at <em>Sublime Text</em> and catching up <em>Atom</em> or <em>Coda2</em> &mdash; sleek,
+extensible, fast.[^2]  <em>Sublime Text</em>, for instance, has taken the best of what
+is out there in code manipulation and put it into an appealing interface. Any
+software developer or web designer who cares about her tools has a well-tuned
+IDE or editor of choice.</p>
+
+<p>[^2]: <a href="http://www.sublimetext.com">Sublime Text</a> and <a href="http://panic.com/coda/">Coda2</a> are not free, <a href="https://atom.io">Atom by Github</a> is</p>
+
+<p>Other alternatives to <em>Word</em> have been around since early Cenozoic times:
+powerful text editors like <em>Vim</em> or <em>Emacs</em> are around for decades.  Whereas
+<em>LaTeX</em> &mdash; a typesetting system for formatting sophisticated articles &mdash; is
+extensively used in scientific community since 1980s.[^3]</p>
+
+<p>[^3]: Forgot to mention &mdash; these beasts are free. <a href="http://tug.ctan.org/tex-archive/macros/latex/contrib/elsarticle/doc/els2.pdf">Here&rsquo;s one example of what <em>LaTeX</em> can produce</a></p>
+
+<h2>The Effort</h2>
+
+<p>After working with <em>Markdown</em> documents for long enough, I
+realized that Markdown-style text editing is a great middle point between
+WYSYWIG and markup-based text processing. (I am aware of pro and contra
+decoupling text manipulation from styling.)  However, only now <strong>the effort of
+working with markup-based solution is less than an effort of editing in WYSYWIG
+mode</strong>.  To me, this is a new spiral in a slow evolution of text manipulation
+&mdash; a tipping point for adoption of Markdown-style text editing by general
+users.</p>
+
+<p>And it&rsquo;s already there.  <em>Markdown</em> kinds spread over the Web and are now
+almost everywhere: Wikipedia, StackOverflow, Github, blogs (including this one)
+to name a few. New stylish editors for Markdown appear:
+<a href="http://mouapp.com">Mou</a>, <a href="http://ulyssesapp.com">Ulysses III</a>.</p>
+
+<p>Why? Because <em>Markdown</em> is simple and adequate. You can type it in a <em>Notepad</em>
+or on your phone and get a result of a <em>Word</em> value.[^4]</p>
+
+<p>[^4]: More details about <em>Markdown</em> and tools for OSX on <a href="http://computers.tutsplus.com/tutorials/introducing-markdown-on-os-x--cms-20764">Tuts+</a></p>
+
+<h2>Separation of concerns: Content, Structure and Style</h2>
+
+<p><!-- This one is not new. No one needs to invent a wheel here. --></p>
+
+<p><em>Markdown</em> allows you to focus on Content and Structure, and only on them.[^5]
+Then you focus on Style, independently. Style is external to the content and it
+can be flexibly adjusted.  Have you even written a postcard? Didn&rsquo;t you try out
+wording on a scratch paper first?</p>
+
+<p>[^5]: You can separate them in <em>Word</em> as well, but only in the first edit. Once you&rsquo;ve formatted your text in Word, all consecutive edits will require adjustment of Content, Structure and Style altogether.</p>
+
+<p>There is still something we need to work on: <strong>How do we add style?</strong></p>
+
+<p>Of course style can be in <em>CSS</em> &mdash; that is how we have it in the Internet &mdash;<br/>
+<code>Markdown -&gt; HTML</code> + <code>CSS</code> = <code>Happy</code>.  Except for <em>CSS</em> is not convenient to
+learn or use by general users. There must be some visual editor that would help
+them to tweak and adjust styling in a intuitive way. Ideally, tweaking should
+humbly live in the <em>Markdown</em> editor and spit out <em>SASS</em> or <em>CSS</em> if asked.</p>
+
+<p>Visual <em>CSS</em> editors start to appear. For instance,
+<a href="http://www.skybound.ca">Stylizer</a> is tuned for intuitive style editing with
+immediate feedback, though still not an option for anyone who does not know
+<em>CSS</em>.</p>
+
+<p><a href="http://decksetapp.com">Deckset</a> approaches <em>Markdown</em> styling from another
+angle &mdash; it takes care of the style and generates styled presentations. You
+focus on the content and the app provides you with predefined trendy styles
+(that you can&rsquo;t change, yet).</p>
+
+<p>The solutions are out there to be put together. We don&rsquo;t need <em>Word</em> anymore. We
+are changing the way we think about text editing.</p>
+
+<p><strong>P.S.: Now that <em>Word</em> is sorted out, how do we go about <em>Excel</em>?</strong></p>
+]]></content>
+  </entry>
+  
+</feed>
